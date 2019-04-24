@@ -18,4 +18,4 @@ continue:
 	addi	$t0, $t0, 4
 	j	loop
 exit:
-	j	$31
+	jr	$31
